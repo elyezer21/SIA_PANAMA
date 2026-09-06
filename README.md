@@ -121,8 +121,7 @@ SIA_PANAMA/
 
 ## Autores
 
-Proyecto académico — Universidad Tecnológica de Panamá, Programación de
-Software II.
+Proyecto académico — Universidad Tecnológica de Panamá - Tópicos Especiales I
 
 ## Licencia
 
