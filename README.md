@@ -123,7 +123,3 @@ SIA_PANAMA/
 
 Proyecto académico — Universidad Tecnológica de Panamá, Programación de
 Software II.
-
-## Licencia
-
-MIT — ver [LICENSE](LICENSE).
